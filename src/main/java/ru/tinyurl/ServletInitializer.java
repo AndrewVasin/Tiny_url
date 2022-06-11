@@ -1,4 +1,4 @@
-package ru.vasin.tiny_url;
+package ru.tinyurl;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
